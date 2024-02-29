@@ -1,0 +1,7 @@
+numbers = input().split()
+unique_numbers = set(numbers)
+mytuple = tuple(unique_numbers)
+min_number = min(unique_numbers)
+max_number = max(unique_numbers)
+print(mytuple)
+print((min_number, max_number))
