@@ -1,0 +1,41 @@
+{
+    "Favorite_Foods_Survey": {
+       "Page_1": {
+           "Q1": {
+               "Description": "What is your favorite type of cuisine?",
+               "Answers": [
+                   "Italian",
+                   "Mexican",
+                   "Chinese",
+                   "Indian",
+                   "Japanese",
+                   "Thai"
+               ]
+           },
+           "Q2": {
+               "Description": "How often do you eat out?",
+               "Answers": [
+                   "Every day",
+                   "A few times a week",
+                   "Once a week",
+                   "A few times a month",
+                   "Rarely"
+               ]
+           }
+       },
+       "Page_2": {
+           "Q3": {
+               "Description": "What is your favorite dish?",
+               "Answers": [
+                   "Pizza",
+                   "Tacos",
+                   "Sushi",
+                   "Pad Thai",
+                   "Burgers",
+                   "Curry"
+               ]
+           }
+       }
+    }
+ }
+ 
